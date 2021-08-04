@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassBoxData", "ClassBoxDat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalFarm", "AnimalFarm\AnimalFarm.csproj", "{F7C09EF9-5D99-40E9-B26E-9F5F7E0A05D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{E46E6986-48BF-4D82-B404-0899D1A12FD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{E46E6986-48BF-4D82-B404-0899D1A12FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCalories", "PizzaCalories\PizzaCalories.csproj", "{72CC99EC-8DEA-44DF-9A63-4A387BAAD0C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaCalories", "PizzaCalories\PizzaCalories.csproj", "{72CC99EC-8DEA-44DF-9A63-4A387BAAD0C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "CustomStack\CustomStack.csproj", "{C15397FC-7BF1-4F39-8715-2446FCBC508E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomStack", "CustomStack\CustomStack.csproj", "{C15397FC-7BF1-4F39-8715-2446FCBC508E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamGenerator", "FootballTeamGenerator\FootballTeamGenerator.csproj", "{D96DDBF7-FB1E-4723-857D-5CA5FACD47B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{C15397FC-7BF1-4F39-8715-2446FCBC508E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C15397FC-7BF1-4F39-8715-2446FCBC508E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C15397FC-7BF1-4F39-8715-2446FCBC508E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96DDBF7-FB1E-4723-857D-5CA5FACD47B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96DDBF7-FB1E-4723-857D-5CA5FACD47B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96DDBF7-FB1E-4723-857D-5CA5FACD47B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96DDBF7-FB1E-4723-857D-5CA5FACD47B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
