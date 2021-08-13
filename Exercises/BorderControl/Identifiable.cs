@@ -1,6 +1,6 @@
 ﻿namespace BorderControl
 {
-	class Identifiable
+	public class Identifiable
 	{
 		protected Identifiable(string id)
 		{

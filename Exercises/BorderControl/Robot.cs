@@ -1,6 +1,6 @@
 ﻿namespace BorderControl
 {
-	class Robot : Identifiable
+	public class Robot : Identifiable
 	{
 		public Robot(string model, string id) : base(id)
 		{
