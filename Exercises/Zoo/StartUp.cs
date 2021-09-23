@@ -6,7 +6,6 @@ namespace Zoo
     {
         public static void Main(string[] args)
         {
-
         }
     }
 
@@ -63,5 +62,4 @@ namespace Zoo
 		{
 		}
 	}
-
 }
